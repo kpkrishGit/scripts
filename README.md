@@ -1,2 +1,2 @@
 # scripts
-scripts for fun
+scripts for just fun and fun
