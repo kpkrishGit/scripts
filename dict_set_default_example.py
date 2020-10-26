@@ -1,4 +1,4 @@
-def count_vowels(sentence):
+def count_vowels(sentence:str):
     """
     find vowel count in a sentence
     We are not initializing a vowels_count with each vowel set to 0
