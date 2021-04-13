@@ -1,0 +1,9 @@
+apr 12 10:12:13 ubuntu systemd[1]: starting system
+apr 12 10:12:13 ubuntu systemd[1]: starting system
+apr 12 10:12:13 ubuntu systemd[1]: starting system
+apr 12 10:12:13 ubuntu systemd[1]: starting system
+apr 12 10:12:13 ubuntu systemd[10]: deletign stale files
+apr 12 10:12:13 ubuntu systemd[1]: starting system
+apr 12 10:12:13 ubuntu systemd[1]: starting system
+apr 12 10:12:13 ubuntu systemd[1]: starting system
+apr 12 10:12:13 ubuntu systemd[1]: starting system

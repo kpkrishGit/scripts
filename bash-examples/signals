@@ -1,0 +1,5 @@
+SIGINT ctrl-c
+SIGSTOP bg     ctrl-z  resume by fg
+SIGTERM kill <pid> ; pidof <name>
+
+
